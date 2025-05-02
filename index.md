@@ -15,3 +15,7 @@ import pylab as plt
 # Set the global default size of matplotlib figures
 plt.rc('figure', figsize=(10, 5))
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
